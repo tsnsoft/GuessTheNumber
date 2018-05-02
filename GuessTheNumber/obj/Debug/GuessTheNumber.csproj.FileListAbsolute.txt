@@ -1,0 +1,9 @@
+c:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\obj\Debug\kz.tsnproff.GuessTheNumber.Properties.Resources.resources
+c:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.GenerateResource.Cache
+c:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+c:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+c:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+c:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+c:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
+c:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\obj\Debug\kz.tsnproff.GuessTheNumber.LauncherGUI.resources
+C:\CSHARP_WORKSPACE\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csprojResolveAssemblyReference.cache
